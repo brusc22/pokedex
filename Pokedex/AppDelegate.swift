@@ -1,4 +1,4 @@
-Numero simulazioni: 500000
+Numero simulazioni: 10000
 Strike price: 195.0
 Prezzo opzione con formula di Black & Scholes: 12.3375220648
-Prezzo opzione con metodo Monte Carlo: 12.2912789353
+Prezzo opzione con metodo Monte Carlo: 12.4615788311
